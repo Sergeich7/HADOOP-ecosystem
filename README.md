@@ -1,4 +1,5 @@
 ## HADOOP-ecosystem
+Лабораторные работы курса "Экосистема HADOOP". На курсе изучалось HDFS, MapReduce, Hive, Spark, SparkStreaming, Kafka, HBase, Casandra, Elasticsearch. Обучение проходило на кластере Cloudera.
 
 ### Изучение MapReduce и Hadoop Streaming
 * Lab 1 - Сортировка данных
